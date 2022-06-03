@@ -52,7 +52,7 @@ The project helps detect the humans who are stuck in fire and are usually not vi
 <img alt="Fire Not Detected!"  src="https://drive.google.com/uc?id=1nEL6dA9qveYzmNf5NUPN6AILA2bCspQQ" height="300px" width="50%"> 
 <pre>.       Fire NOT detected                                    Fire detected </pre>
 
-<img src="https://drive.google.com/uc?id=1R1HEACk0qtEF9dLhxdGAhMOyS4a4yXnE" height="300px" right-margin="2px">
+<img src="https://drive.google.com/uc?id=1R1HEACk0qtEF9dLhxdGAhMOyS4a4yXnE" height="70%">
 <pre>                                        Confusion Matrix                       </pre>
 
 <hr>
