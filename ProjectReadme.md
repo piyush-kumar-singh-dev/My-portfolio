@@ -1,6 +1,6 @@
 # Detection of Human in Fire Using HOG and SVM
 <div align="center" right-margin="3px">
-<img  height="100" src="https://drive.google.com/uc?id=1RL4o86LzwSUdO8FYvBVYtgxrHhoNa_PZ" height="300px" border-radius="5px"> 
+<img  height="50%" width="70%" src="https://drive.google.com/uc?id=1RL4o86LzwSUdO8FYvBVYtgxrHhoNa_PZ" height="300px" border-radius="5px"> 
 </div>
 <div left-margin="2px" align="justify">
 The project helps detect the humans who are stuck in fire and are usually not visible to the eyes due to high smoke and flame. The project can be broken down into two merging segments - the first is detecting the Fire, and the second is detecting the human. The fire detection algorithm detects the Fire and flames in the environment if present; the module works based on colour format YCbCr. It uses a Histogram of Oriented Gradient(HOG) and Support Vector Machine(SVM) to detect a human in the Fire. It evaluates several motion-based feature sets for human detection in the form of videos.
